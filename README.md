@@ -1,3 +1,10 @@
+ny funksjon
+
+
+
+
+
 # hello-world
-Learning github
 Test test test
+Testing
+Ny linje
